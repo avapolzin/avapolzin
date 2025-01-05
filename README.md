@@ -10,6 +10,7 @@ See below for some selected GitHub repos which I own/maintain or to which I have
 - [avapolzin/X-rayLCs](https://github.com/avapolzin/X-rayLCs)
 
 🔭 I also work on scientific software projects that I hope will be useful to the community:
+- [fforster/DELIGHT](https://github.com/fforster/DELIGHT)
 - [tbmiller-astro/silkscreen](https://github.com/tbmiller-astro/silkscreen)
 - [avapolzin/spike](https://github.com/avapolzin/spike)
 
