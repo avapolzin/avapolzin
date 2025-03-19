@@ -6,7 +6,7 @@ See below for some selected GitHub repos which I own/maintain or to which I have
 
 🔭 I am invested in open science, so I try to make my code/data/models public:
 - [avapolzin/CHIMExIllustrisTNG](https://github.com/avapolzin/CHIMExIllustrisTNG) - Analysis code and TNG300 cluster catalogs from Polzin et al. (2024b)
-- [avapolzin/hydrogen_models](https://github.com/avapolzin/hydrogen_models) - HI-H2 odels from Polzin et al. (2024a) and the larger literature
+- [avapolzin/hydrogen_models](https://github.com/avapolzin/hydrogen_models) - HI-H2 models from Polzin et al. (2024a) and the larger literature
 - [avapolzin/X-rayLCs](https://github.com/avapolzin/X-rayLCs) - Code and X-ray transient data from Polzin et al. (2023a) + light curve classifier
 
 🔭 I also work on scientific software projects that I hope will be useful to the community:
