@@ -10,9 +10,9 @@ See below for some selected GitHub repos which I own/maintain or to which I have
 - [avapolzin/X-rayLCs](https://github.com/avapolzin/X-rayLCs) - Code and X-ray transient data from Polzin et al. (2023a) + light curve classifier
 
 🔭 I also work on scientific software projects that I hope will be useful to the community:
-- [fforster/DELIGHT](https://github.com/fforster/DELIGHT) - Host galaxy identification for transient sources
-- [tbmiller-astro/silkscreen](https://github.com/tbmiller-astro/silkscreen) - Galaxy distances inferred from survey imaging
-- [avapolzin/spike](https://github.com/avapolzin/spike) - All-in-one tool to generate and drizzle space-based PSFs
+- [fforster/DELIGHT](https://github.com/fforster/DELIGHT) - Host galaxy identification for transient sources (Förster et al. 2022)
+- [tbmiller-astro/silkscreen](https://github.com/tbmiller-astro/silkscreen) - Galaxy distances inferred from survey imaging (Miller et al. 2025)
+- [avapolzin/spike](https://github.com/avapolzin/spike) - All-in-one tool to generate and drizzle space-based PSFs (Polzin 2025)
 
 ✨ and sometimes I publish smaller packages for fun (or as relatively simple utilities):
 - [avapolzin/albumpl](https://github.com/avapolzin/albumpl) - Matplotlib palettes/colormaps based on album covers
