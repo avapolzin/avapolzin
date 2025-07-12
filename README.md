@@ -22,6 +22,7 @@ See below for some selected GitHub repos which I own/maintain or to which I have
 📚 Additionally, I'm very active in instruction and pedagogy, and share some materials on GitHub:
 - [astroteaching/astroteaching.github.io](https://github.com/astroteaching/astroteaching.github.io) - Compiled astrophysics teaching resources
 - [avapolzin/ASTR255_Fall2021](https://github.com/avapolzin/ASTR255_Fall2021) - Beginning coding tutorials for Yale astrophysics majors
+- [avapolzin/goodenough_gaia_cmds](https://github.com/avapolzin/goodenough_gaia_cmds) - Simplified cluster member selection and isochrone plotting for Gaia data
 
 <!--
 **avapolzin/avapolzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
